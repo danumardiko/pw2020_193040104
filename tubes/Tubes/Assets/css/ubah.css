@@ -1,0 +1,21 @@
+.container{
+    width: 30%;
+    margin-top: 9%;
+    box-shadow: 0 3px 20px rgba(0, 0, 0, 0.3);
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    background: url(../img/bg3.jpg);
+    text-align: center;
+    margin: auto;
+    background-size: cover;
+
+}
+body{ 
+    background: url(../img/bg2.jpg);
+    padding-top: 150px;
+    
+
+    
+}
